@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "README"
             }
           }
         ]
@@ -188,13 +188,13 @@
   },
   "active": "4efeb7e1152120f5",
   "lastOpenFiles": [
+    "Welcome.md",
     "README.md",
     "Literature/Plasmons.pdf",
     "Literature/Analysis_and_Simulation_of_an_Electro-Optic_Modulator_Based_on_a_Hybrid_Si_Al2O3_Graphene_Waveguide.pdf",
     "Literature/Reconfigurable_Multi-Channel_Graphene_Microring_Modulator_for_WDM_Optical_Interconnects.pdf",
     "Literature/Silicon Microring Resonators.pdf",
     "Literature",
-    "Welcome.md",
     "gitsync/README.md",
     "gitsync/Welcome.md",
     "gitsync"
