@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "47caf81776b4ef7e",
+        "id": "61c608ebf6ee0542",
         "type": "tabs",
         "children": [
           {
-            "id": "59beef41462cc49c",
+            "id": "4efeb7e1152120f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4bf295f2d746dfde",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "202c4e3968af0ff7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
             }
           }
         ]
@@ -202,11 +186,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "202c4e3968af0ff7",
+  "active": "4efeb7e1152120f5",
   "lastOpenFiles": [
+    "README.md",
+    "Literature/Plasmons.pdf",
+    "Literature/Analysis_and_Simulation_of_an_Electro-Optic_Modulator_Based_on_a_Hybrid_Si_Al2O3_Graphene_Waveguide.pdf",
+    "Literature/Reconfigurable_Multi-Channel_Graphene_Microring_Modulator_for_WDM_Optical_Interconnects.pdf",
+    "Literature/Silicon Microring Resonators.pdf",
+    "Literature",
     "Welcome.md",
     "gitsync/README.md",
-    "README.md",
     "gitsync/Welcome.md",
     "gitsync"
   ]
